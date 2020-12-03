@@ -1,0 +1,3 @@
+'Algebraic_Geometry/arXiv2008.11684:test' => 'Test keyword',
+'Algebraic_Geometry/arXiv2008.11684:title' => 'Non-commutative derived moduli prestacks',
+'Algebraic_Geometry/arXiv2008.11684:abstract' => 'We introduce a formalism for derived moduli functors on differential graded associative algebras, which leads to non-commutative enhancements of derived moduli stacks and naturally gives rise to structures such as Hall algebras. Descent arguments are not available in the non-commutative context, so we establish new methods for constructing various kinds of atlases. The formalism permits the development of the theory of shifted bi-symplectic and shifted double Poisson structures in the companion paper.',

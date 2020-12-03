@@ -1,0 +1,3 @@
+'Algebraic_Geometry/arXiv2008.11912.txt:test' => '测试关键词',
+'Algebraic_Geometry/arXiv2008.11912.txt:title' => '超级封面的替代品',
+'Algebraic_Geometry/arXiv2008.11912.txt:abstract' => '我在一个名为“地图集”的Grothendieck网站上介绍了一类可用于研究超下降的图表，并展示了超束利用索引“神经”结构将地图集带到极限，从而从地图集产生超覆盖。地图集比超级覆盖更灵活，同时也更明确、更通用。',

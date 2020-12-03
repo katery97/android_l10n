@@ -1,1 +1,1 @@
-'Algebraic_Topology/arXiv2008.12026:test' => 'Test keyword',
+'Algebraic_Topology/arXiv2008.12026.txt:test' => 'Test keyword',
